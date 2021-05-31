@@ -1,0 +1,3 @@
+file_write_test: 
+I have a dream
+You also have a dream
